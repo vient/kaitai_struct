@@ -12,7 +12,7 @@
 	url = https://github.com/kaitai-io/kaitai_struct_tests.git
 [submodule "compiler"]
 	path = compiler
-	url = https://github.com/kaitai-io/kaitai_struct_compiler.git
+	url = https://github.com/vient/kaitai_struct_compiler.git
 [submodule "runtime/javascript"]
 	path = runtime/javascript
 	url = https://github.com/kaitai-io/kaitai_struct_javascript_runtime.git
@@ -49,3 +49,6 @@
 [submodule "runtime/nim"]
 	path = runtime/nim
 	url = https://github.com/kaitai-io/kaitai_struct_nim_runtime
+[submodule "runtime/wireshark"]
+	path = runtime/wireshark
+	url = https://github.com/vient/kaitai_struct_wireshark_runtime
